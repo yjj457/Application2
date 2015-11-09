@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application</string>
+
+    <string name="hello_world">欢迎页</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_next">NextActivity</string>
+    <string name="next_activity">第二页</string>
+    <string name="get_password">获取密码</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
